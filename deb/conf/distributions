@@ -1,0 +1,8 @@
+Origin: InPanel
+Label: InPanel
+Suite: stable
+Codename: focal
+Version: 1.0
+Architectures: all source
+Components: main
+Description: InPanel Debian/Ubuntu Repository
